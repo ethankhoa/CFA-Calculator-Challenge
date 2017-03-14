@@ -1,15 +1,3 @@
-#Calculator Challenge
-#
-#Create a calculator application
-#
-#Your calculator should:
-#
-#1. ask the user for two numbers
-#2. ask the user whether they want o add, subtract or multiply return the result
-#
-#Bonus:
-#
-#4. If the answer is 42, tell the user the meaning of life.
 
 # Addition method
 def add(n1,n2)
